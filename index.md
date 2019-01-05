@@ -7,6 +7,6 @@ layout: home
 
 ![](/uploads/flower.jpg)
 
-This is the home page updated by sally
+This is the home page updated by sally, I can edit
 
 I will add a link&nbsp;[..Per diem rate.](/Per Diem Rates Vegas.pdf)
