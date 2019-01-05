@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![](/uploads/flower.jpg)
+![flower](/uploads/flower.jpg "flower")
 
 This is the home page updated by sally, I can edit
 
