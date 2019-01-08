@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 ---
 
 ![flower](/uploads/flower.jpg "flower")
